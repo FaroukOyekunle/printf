@@ -2,7 +2,11 @@
 ================
 
 -   By Julien Barbier, co-founder & CEO
-
+-   Weight: 5
+-   Project to be done in teams of 2 people (your team: Abdulbasit Onaade, Umar al Farouk Farouk)
+-   Project will start Jun 23, 2023 6:00 AM, must end by Jun 28, 2023 6:00 AM
+-   Checker will be released at Jun 24, 2023 12:00 PM
+-   An auto review will be launched at the deadline
 
 Concepts
 --------
