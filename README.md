@@ -211,7 +211,7 @@ Handle the following custom conversion specifiers:
 
 -     b: the unsigned int argument is converted to binary
 -     alex@ubuntu:~/c/printf$ cat main.c
-# include "main.h"
+### include "main.h"
 
 /**
  * main - Entry point
@@ -227,6 +227,7 @@ alex@ubuntu:~/c/printf$ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 main.c
 alex@ubuntu:~/c/printf$ ./a.out
 1100010
 alex@ubuntu:~/c/printf$
+
 **Repo:**
 
 -   GitHub repository: `printf`
