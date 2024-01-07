@@ -8,6 +8,7 @@
  *
  * Return: Precsn.
  */
+
 int get_precision(const char *format, int *j, va_list list)
 {
 	int curr_j = *j + 1;
